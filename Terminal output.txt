@@ -1,0 +1,7 @@
+
+PS C:\Users\mill2313\Plotly\Challenge\12_3_2> python -m http.server
+Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
+127.0.0.1 - - [05/Sep/2022 15:58:57] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [05/Sep/2022 15:58:57] "GET /data/samples.json HTTP/1.1" 304 -
+127.0.0.1 - - [05/Sep/2022 15:58:58] code 404, message File not found
+127.0.0.1 - - [05/Sep/2022 15:58:58] "GET /favicon.ico HTTP/1.1" 404 -
